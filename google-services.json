@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "922503659281",
+    "firebase_url": "https://goodwin-mobile-2e6e6.firebaseio.com",
+    "project_id": "goodwin-mobile-2e6e6",
+    "storage_bucket": "goodwin-mobile-2e6e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922503659281:android:53b3d356b35f46327796b0",
+        "android_client_info": {
+          "package_name": "com.unifyed.goodwin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922503659281-erbjivfji42jsgtsd79jfu752shgsu5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXHhDIE5YIo91CLiKapB9446mSmpCHqqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922503659281-erbjivfji42jsgtsd79jfu752shgsu5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
